@@ -11,4 +11,5 @@ function reverse(word){
     return answer
 }
 
-console.log(reverse(example))
+
+console.log(reverse(example2))
