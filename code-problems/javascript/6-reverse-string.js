@@ -8,8 +8,9 @@ function reverse(word){
     for (let i=word.length-1; i>=0; i--){
         answer = answer + word[i]
     }
+    debugger
     return answer
 }
 
 
-console.log(reverse(example2))
+console.log(reverse(example))
