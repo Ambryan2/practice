@@ -14,3 +14,4 @@
 // npm init -y (everything default)
 
 //.gitignore - use this for node_modules to save space
+console.log("hi")

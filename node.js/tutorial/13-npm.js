@@ -13,7 +13,10 @@
 // npm init (step by step, press enter to skip)
 // npm init -y (everything default)
 
+//.gitignore - use this for node_modules to save space
 
+
+//example of using an npm install
 const _ = require('lodash');
 
 const items = [1,[2 , [3 , [4]]]]
