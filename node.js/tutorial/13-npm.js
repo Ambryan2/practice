@@ -16,7 +16,7 @@
 //.gitignore - use this for node_modules to save space
 
 
-//example of using an npm install
+//example of using an npm install called lodash
 const _ = require('lodash');
 
 const items = [1,[2 , [3 , [4]]]]
